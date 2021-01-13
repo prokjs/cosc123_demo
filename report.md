@@ -6,6 +6,8 @@ This is just random text in the body
 
 **bold**
 
+*italics*
+
 ### This is a level 3 heading
 
 - item 1 
